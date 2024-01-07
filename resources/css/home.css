@@ -1,0 +1,8 @@
+.container{
+    /* border: 1px solid black; */
+    height: auto;
+    border-radius: 4px;
+    background: blue;
+    align-content: centre;
+    text-align: centre;
+}
